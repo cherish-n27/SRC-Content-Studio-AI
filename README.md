@@ -60,6 +60,3 @@ The prompt library went through several rounds of iteration based on real testin
 
 Active prototype — built iteratively through AI-assisted development, with the prompt library and feature set refined based on real output testing.
 
-## Author
-
-Cherish Nwachukwu — IT graduate (Business Systems), SRC alumnus, CAPACITI AI Bootcamp participant.
